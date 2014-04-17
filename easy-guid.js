@@ -1,6 +1,6 @@
 /*
  * easy-guid
- * https://github.com/huei90/easy-guid
+ * https://github.com/easy-node/easy-guid
  *
  * Copyright (c) 2014 Huei Tan
  * Licensed under the MIT license.

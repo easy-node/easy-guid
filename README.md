@@ -1,6 +1,6 @@
-# easy-guid [![Build Status](https://secure.travis-ci.org/huei90/easy-guid.png?branch=master)](http://travis-ci.org/huei90/easy-guid)
+# easy-guid [![Build Status](https://secure.travis-ci.org/easy-node/easy-guid.png?branch=master)](http://travis-ci.org/easy-node/easy-guid)
 
-Clean and Easy GUID (v0.1.1)
+Clean and Easy GUID (v0.1.3)
 
 ## Getting Started
 Install the module with: `npm install easy-guid`
