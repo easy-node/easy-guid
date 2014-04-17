@@ -1,0 +1,42 @@
+{
+    "name": "easy-guid",
+    "version": "0.1.0",
+    "main": "lib/easy-guid.js",
+    "description": "Clean and Easy GUID",
+    "homepage": "https://github.com/huei90/easy-guid",
+    "bugs": "https://github.com/huei90/easy-guid/issues",
+    "author": {
+        "name": "Huei Tan",
+        "email": "huei90@gmail.com",
+        "url": "https://github.com/huei90"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/huei90/easy-guid"
+    },
+    "licenses": [
+        {
+            "type": "MIT"
+        }
+    ],
+    "files": [
+        "easy-guid.js"
+    ],
+    "keywords": [
+        "guid",
+        "easy",
+        "clean",
+        "guid generator"
+    ],
+    "devDependencies": {
+        "grunt-contrib-jshint": "~0.7.0",
+        "grunt-contrib-nodeunit": "~0.2.0",
+        "grunt-contrib-watch": "~0.5.0",
+        "load-grunt-tasks": "~0.2.0",
+        "time-grunt": "~0.2.0",
+        "jshint-stylish": "~0.1.3"
+    },
+    "scripts": {
+        "test": "grunt"
+    }
+}
