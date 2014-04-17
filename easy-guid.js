@@ -22,7 +22,7 @@ exports.new = function (type) {
         default:
             value = guid32();
     }
-    return value
+    return value;
 };
 
 function S4() {
