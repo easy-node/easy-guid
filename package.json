@@ -1,6 +1,6 @@
 {
     "name": "easy-guid",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "main": "lib/easy-guid.js",
     "description": "Clean and Easy GUID",
     "homepage": "https://github.com/huei90/easy-guid",
