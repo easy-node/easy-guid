@@ -1,6 +1,8 @@
-# easy-guid [![Build Status](https://secure.travis-ci.org/easy-node/easy-guid.png?branch=master)](http://travis-ci.org/easy-node/easy-guid)
+# easy-guid 
+[![Build Status](https://secure.travis-ci.org/easy-node/easy-guid.png?branch=master)](http://travis-ci.org/easy-node/easy-guid)
+[![NPM version](https://badge.fury.io/js/easy-guid.svg)](http://badge.fury.io/js/easy-guid)
 
-Clean and Easy GUID (v0.1.3)
+Clean and Easy GUID
 
 ## Getting Started
 Install the module with: `npm install easy-guid`
